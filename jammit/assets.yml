@@ -1,8 +1,13 @@
+# To rebuild: jammit -f -c jammit/assets.yml -o jammit/
+
 javascript_compressor: closure
 
 javascripts:
   assets:
-    - src/*.js
+    - src/json2.js
+    - src/jquery.js
+    - src/swfobject.js
+    - src/finish.js
 
 stylesheets:
   assets:
