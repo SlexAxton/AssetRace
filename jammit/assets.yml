@@ -7,7 +7,7 @@ javascripts:
     - src/json2.js
     - src/jquery.js
     - src/swfobject.js
-    - src/finish.js
+    - finish.js
 
 stylesheets:
   assets:

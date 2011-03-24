@@ -4,4 +4,4 @@ Fork and add yours.
 
 ### The Rules:
 
-You must serve all of the CSS and all of the JavaScript in `src`. Run `src/finish.js` after all of the assets have loaded. The elapsed time will be displayed.
+You must serve all of the CSS and all of the JavaScript in `src`. Run `finish.js` after all of the assets have loaded. The elapsed time will be displayed.
