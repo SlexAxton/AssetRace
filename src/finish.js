@@ -1,0 +1,1 @@
+document.body.innerHTML += "<h1>Done: " + (+(new Date) - startTime) + "ms</h1>";
