@@ -1,0 +1,9 @@
+javascript_compressor: closure
+
+javascripts:
+  assets:
+    - src/*.js
+
+stylesheets:
+  assets:
+    - src/*.css
