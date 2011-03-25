@@ -6,7 +6,7 @@
   <link href="jammit/assets.css" media="all" rel="stylesheet" type="text/css" />
   <script> window.startTime = (+new Date); </script>
   <script>
-  (function(a){var b=["jammit/assets.js"],c=a.getElementsByTagName("script")[0],d,e,f=0;for(d in b)e=a.createElement("script"),e.src=b[d],e.async=!0,e.onload=e.onreadystatechange=function(){++f==3&&(a.body.innerHTML+="<h1>Done: "+(+(new Date)-startTime)+"ms</h1>")},c.parentNode.insertBefore(e,c)})(document)
+  (function(a){var b=["jammit/assets.js"],c=a.getElementsByTagName("script")[0],d,e;for(d in b)e=a.createElement("script"),e.src=b[d],e.async=!0,c.parentNode.insertBefore(e,c)})(document)
   </script> 
 </head>
 <body>
